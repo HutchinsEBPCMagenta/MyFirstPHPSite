@@ -4,10 +4,9 @@
 
 <?php
 
-echo "trying PHP"
+echo <h1>"trying PHP"</h1>
 
 //comments
-
 ?>
 
 </body>
