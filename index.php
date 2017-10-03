@@ -7,7 +7,7 @@
 echo  "trying PHP" 
 
 //comments
-?>
+/?>
 
 </body>
 </html>
