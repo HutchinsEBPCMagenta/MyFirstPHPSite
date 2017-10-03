@@ -4,7 +4,7 @@
 
 <?php
 
-echo <title> "trying PHP" </title>
+echo  "trying PHP" 
 
 //comments
 ?>
