@@ -1,13 +1,14 @@
-<!DOCTYPE html>
-<html>
-<body>
-
+<HTML>
+<BODY>
 <?php
-
-echo  "trying PHP" 
-
-//comments
-/?>
-
-</body>
-</html>
+$myfirst = "Hello world!";
+$firstnum = 4;
+$firstfloat = 24.2;
+echo $myfirst;
+echo "<br>";
+echo $firstnum;
+echo "<br>";
+echo $firstfloat;
+?>
+</BODY>
+</HTML>
